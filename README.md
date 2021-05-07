@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Chris Thomason!
 - 💻 I currently work at Code Nation in Manchester, UK. 
-- 👀 I’m interested in Front End mostly. As a 'part time' designer, HTML/CSS are what I enjoy the most!
-- 🌱 I’m wanting to learn more about JS and Cyber Security. 
 - 📫 How to reach me: chris.thomason@wearecodenation.com
