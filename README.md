@@ -6,7 +6,7 @@
 - 📫 How to reach me: chris.thomason@wearecodenation.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username={"christhomo94"}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=christhomo94&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 
 ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
